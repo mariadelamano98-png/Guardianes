@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mod0ldxm-grpcty6ge">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-rc2">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>6. Atribución y descarga | Guardianes del Entorno</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../search_index.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/download-source-file/download-source-file.js"></script><link rel="stylesheet" href="../idevices/download-source-file/download-source-file.css">
+<script src="../libs/fflate/fflate.umd.js"> </script>
+<script src="../libs/exe_elpx_download/exe_elpx_download.js"> </script>
+<script src="../libs/fflate/fflate.umd.js"> </script>
+<script src="../libs/exe_elpx_download/exe_elpx_download.js"> </script>
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mod0ldxm-grpcty6ge" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li class="current-page-parent"> <a href="../index.html" class="main-node daddy">Guardianes del Entorno</a>
+<ul class="other-section">
+<li> <a href="../html/1-intencion-educativa.html" class="no-ch">1. Intención Educativa</a>
+</li>
+<li> <a href="../html/2-elementos-curriculares-.html" class="no-ch">2. Elementos curriculares </a>
+</li>
+<li> <a href="../html/3-metodologias-activas-.html" class="no-ch">3. Metodologías Activas </a>
+</li>
+<li> <a href="../html/4-vinculacion-proyectos-y-programas-.html" class="no-ch">4. Vinculación proyectos y programas </a>
+</li>
+<li> <a href="../html/5-actividades-complementarias-.html" class="no-ch">5. Actividades complementarias </a>
+</li>
+<li class="active"> <a href="../html/6-atribucion-y-descarga-.html" class="active no-ch">6. Atribución y descarga </a>
+</li>
+</ul>
+</li>
+</ul>
+</nav><main id="page-mod0ldxm-grpcty6ge" class="page"> <div id="exe-client-search" data-block-order-string="Caja %e" data-no-results-string="Sin resultados.">
+</div>
+<header class="main-header">
+<div class="package-header"><p class="package-title">Guardianes del Entorno</p></div>
+<div class="page-header"><h1 class="page-title">6. Atribución y descarga </h1></div>
+</header><div id="page-content-page-mod0ldxm-grpcty6ge" class="page-content">
+<article id="block-1776416043218-ue4arrjud" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Descargar el archivo fuente</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1776416043216-b4ucl7ees" class="idevice_node download-source-file" data-idevice-path="../idevices/download-source-file/" data-idevice-type="download-source-file">
+<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td><span class="exe-prop-title">Guardianes del Entorno</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td><span class="exe-prop-author">María de la Mano </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="Guardianes del Entorno.elpx" href="#" onclick="if(typeof downloadElpx==='function')downloadElpx();return false;" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elp</a></p>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/5-actividades-complementarias-.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<span class="nav-button nav-button-right" aria-hidden="true"><span>Siguiente</span></span>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+<script src="../libs/elpx-manifest.js"> </script>
+</body>
+</html>

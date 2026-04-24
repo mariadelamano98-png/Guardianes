@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-page-mod0ldxl-od3j8c613">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v4.0.0-rc2">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>3. Metodologías Activas | Guardianes del Entorno</title>
+<link rel="icon" type="image/x-icon" href="../libs/favicon.ico">
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../search_index.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"></script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css"><script src="../theme/style.js"> </script><link rel="stylesheet" href="../theme/style.css">
+</head>
+<body class="exe-export exe-web-site">
+<script>document.body.className+=" js"</script>
+<div class="exe-content exe-export pre-js siteNav-hidden"><a href="#page-mod0ldxl-od3j8c613" id="skipNav">Skip to content</a> <nav id="siteNav">
+<ul>
+<li class="current-page-parent"> <a href="../index.html" class="main-node daddy">Guardianes del Entorno</a>
+<ul class="other-section">
+<li> <a href="../html/1-intencion-educativa.html" class="no-ch">1. Intención Educativa</a>
+</li>
+<li> <a href="../html/2-elementos-curriculares-.html" class="no-ch">2. Elementos curriculares </a>
+</li>
+<li class="active"> <a href="../html/3-metodologias-activas-.html" class="active no-ch">3. Metodologías Activas </a>
+</li>
+<li> <a href="../html/4-vinculacion-proyectos-y-programas-.html" class="no-ch">4. Vinculación proyectos y programas </a>
+</li>
+<li> <a href="../html/5-actividades-complementarias-.html" class="no-ch">5. Actividades complementarias </a>
+</li>
+<li> <a href="../html/6-atribucion-y-descarga-.html" class="no-ch">6. Atribución y descarga </a>
+</li>
+</ul>
+</li>
+</ul>
+</nav><main id="page-mod0ldxl-od3j8c613" class="page"> <div id="exe-client-search" data-block-order-string="Caja %e" data-no-results-string="Sin resultados.">
+</div>
+<header class="main-header">
+<div class="package-header"><p class="package-title">Guardianes del Entorno</p></div>
+<div class="page-header"><h1 class="page-title">3. Metodologías Activas </h1></div>
+</header><div id="page-content-page-mod0ldxl-od3j8c613" class="page-content">
+<article id="block-1776415949296-n17nqapjn" class="box">
+<header class="box-head no-icon">
+<h1 class="box-title">Texto</h1>
+<button class="box-toggle box-toggle-on" title="Toggle content">
+<span>Toggle content</span>
+</button></header>
+<div class="box-content">
+<div id="idevice-1776415949293-2fejgxtox" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json" data-idevice-json-data="{&quot;ideviceId&quot;:&quot;idevice-1776415949293-2fejgxtox&quot;}">
+<div class="exe-text-template">
+    <p>Aplicaremos el <strong>Aprendizaje Basado en Proyectos (ABP</strong>) combinándolo con el <strong>Aprendizaje Cooperativo</strong>.</p>
+<p><strong>¿Por qué?</strong></p>
+<p>El alumnado no es un receptor pasivo; ellos deben investigar para resolver una pregunta guía: "¿Podríamos sobrevivir en el colegio si desaparecieran las plantas?". Cada equipo asume la responsabilidad de crear un recurso (infografía o podcast) que enseñe a los demás.</p>
+</div>
+</div>
+</div>
+</article>
+</div></main><div class="nav-buttons">
+<a href="../html/2-elementos-curriculares-.html" title="Anterior" class="nav-button nav-button-left"><span>Anterior</span></a>
+<a href="../html/4-vinculacion-proyectos-y-programas-.html" title="Siguiente" class="nav-button nav-button-right"><span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">Creative Commons: Reconocimiento - compartir igual 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
