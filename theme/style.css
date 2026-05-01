@@ -822,3 +822,27 @@ label[for="teacher-mode-toggler"] {
 #siteNav ul li a:hover{
   background:#eaf3ff;
 }
+#siteNav ul li strong{
+  display:block;
+  margin-top:16px;
+  padding:10px;
+  font-size:14px;
+  background:#f3f6fa;
+  border-left:6px solid #2e7d32;
+  border-radius:6px;
+  color:#1f2d3d;
+}
+
+#siteNav ul li a{
+  display:block;
+  padding:7px 10px;
+  text-decoration:none;
+  border-radius:6px;
+  color:#2c3e50;
+  transition:0.2s ease;
+}
+
+#siteNav ul li a:hover{
+  background:#e8f0fe;
+  padding-left:14px;
+}
